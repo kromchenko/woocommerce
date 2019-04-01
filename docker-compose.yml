@@ -49,7 +49,7 @@ services:
       SERVICE_TAGS: dev
       SERVICE_NAME: mysql
       MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD}"
-      MYSQL_DATABASE: wordpress
+      MYSQL_DATABASE: site
       MYSQL_USER: "${MYSQL_USER}"
       MYSQL_PASSWORD: "${MYSQL_PASSWORD}"
     volumes:
