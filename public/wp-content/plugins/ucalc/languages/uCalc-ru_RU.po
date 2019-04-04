@@ -1,0 +1,128 @@
+# Translation of Plugins - uCalc - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - uCalc - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-30 13:59:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - uCalc - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://ucalc.pro/"
+msgstr "https://ucalc.pro/"
+
+#. Author of the plugin/theme
+msgid "uСoz"
+msgstr "uСoz"
+
+#. Description of the plugin/theme
+msgid "Create an adaptive service calculator by using a simple drag-and-drop builder."
+msgstr "Создайте адаптивный калькулятор услуг, используя простой drag and drop конструктор."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/uCalc/"
+msgstr "http://wordpress.org/plugins/uCalc/"
+
+#. Plugin Name of the plugin/theme
+msgid "uCalc"
+msgstr "uCalc"
+
+#: includes/uCalc_Core.php:50
+msgid "Parameters"
+msgstr "Параметры"
+
+#: includes/uCalcWidget.php:89
+msgid "<br>Configure the plugin"
+msgstr "<br>Настройте плагин"
+
+#: includes/uCalcWidget.php:80
+msgid "Calculator ID"
+msgstr "ID калькулятора"
+
+#: includes/uCalcWidget.php:31
+msgid "block widget"
+msgstr "block widget"
+
+#: includes/uCalcWidget.php:19
+msgid "uCalc.pro calculator widget"
+msgstr "Виджет калькуляторов uCalc.pro"
+
+#: includes/uCalcPage.php:78
+msgid "Enter your KEY"
+msgstr "Введие ваш KEY"
+
+#: includes/uCalcPage.php:77
+msgid "General settings"
+msgstr "Основные настройки"
+
+#: includes/uCalcPage.php:54
+msgid "Disconnect account"
+msgstr "Отвязать аккаунт"
+
+#: includes/uCalcPage.php:52
+msgid "Connect account"
+msgstr "Привязать аккаунт"
+
+#: includes/uCalcPage.php:41
+msgid "To connect a calculator to the website, click on the «Connect account» button and complete the access permission procedure."
+msgstr "Для подключения калькулятора к сайту, кликните по кнопке «привязать аккаунт» и пройдите процедуру разрешения доступа."
+
+#: includes/uCalcPage.php:21
+msgid "uCalc plugin settings"
+msgstr "uCalc настройка плагина."
+
+#: includes/uCalcMCE.php:51
+msgid "Access denied, only admins can view."
+msgstr "Доступ запрещен, просматривать могут только админы."
+
+#: includes/uCalcMCE.php:43
+msgid "Embed"
+msgstr "Вставить"
+
+#: includes/uCalcMCE.php:42 includes/uCalcWidget.php:18
+msgid "Your calculators"
+msgstr "Ваши калькуляторы"
+
+#: assets/views/popup.php:53
+msgid "Plugin settings have expired"
+msgstr "Настройки плагина устарели"
+
+#: assets/views/popup.php:50 assets/views/popup.php:55
+msgid "Configure the plugin uCalc"
+msgstr "Настройте плагин uCalc"
+
+#: assets/views/popup.php:45 includes/uCalcWidget.php:87
+msgid "Sorry, you don't have any published calculators"
+msgstr "Извините у вас нет опубликованных калькуляторов"
+
+#: assets/views/popup.php:29
+msgid "Choose a calculator:"
+msgstr "Выберите калькулятор:"
+
+#: includes/uCalcMCE.php:84
+msgid "Calculator"
+msgstr "Калькулятор"
+
+#: includes/uCalc_Core.php:44
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: includes/uCalc_Core.php:45
+msgid "Manage widget"
+msgstr "Управление виджетом"
+
+#: includes/uCalc_Core.php:46
+msgid "Choose another form"
+msgstr "Выбрать другую форму"
+
+#: includes/uCalc_Core.php:47
+msgid "- Choose the form -"
+msgstr "- Выберите форму -"
+
+#: includes/uCalc_Core.php:48
+msgid "Choose"
+msgstr "Выбрать"

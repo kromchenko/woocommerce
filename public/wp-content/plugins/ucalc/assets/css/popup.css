@@ -1,0 +1,84 @@
+
+body
+{
+	padding:0;
+	margin:0;
+	overflow:visible;
+
+}
+
+html
+{
+	overflow-y:hidden;
+}
+
+
+#button-dialog label { font-weight:bold; }
+#button-dialog { font-size:14px; }
+#button-dialog .inputrow { padding: 7px 0; height: auto; display:block; clear:both; }
+#button-dialog .inputrowc { padding: 0 0 7px 0; height: auto; display:block; clear:both; }
+#button-dialog .inputrow.wbreak { margin-bottom:5px; border-bottom: 1px solid #cccccc; }
+#button-dialog .inputrow > label { display: block; margin: 0 0 0 0; text-align:left; line-height:26px; }
+#button-dialog .inputrow > .inputwrap { display: block; padding: 10px 0; text-align:right; position: relative; z-index: 5; }
+#button-dialog .inputrow > .inputwrap select { width:100%; }
+#button-dialog .inputrow > .inputwrap #insert { float: none; width: 200px; margin: 20px auto; }
+
+#button-dialog .inputrowc > label { display: block; margin: 0 0 0 0; text-align:left; line-height:26px; }
+#button-dialog .inputrowc > .inputwrap { display: block;}
+
+#button-dialog select, #button-dialog input { display: inline-block; auto; padding: 3px 5px; font-size:14px; }
+#button-dialog .inputrow > .inputwrap > select, #button-dialog .inputrow > .inputwrap > input { float: right;  }
+#button-dialog #insert { display: block; line-height: 12px; text-align: center; margin: 15px 15px 0 0; float: right; font-size:14px; }
+#button-dialog #insert {
+	color: white;
+	text-decoration: none;
+	padding: 6px;
+	border-radius: 3px;
+	background: #006799;
+	transition: 0.2s;
+}
+#button-dialog #insert:hover { background: rgb(53, 167, 110); }
+#button-dialog #insert:active {
+	background: rgb(33,147,90);
+	box-shadow: 0 3px rgb(33,147,90) inset;
+}.preview-button-area { display: block; text-align:center; border:1px dashed #aaaaaa; height:90px; padding:5px; margin:15px; overflow:auto;}
+
+small
+{
+	color:#888;
+}
+
+input[type="text"], select
+{
+	color:#333333;
+}
+#button-dialog .main input
+{
+	padding:7px;
+}
+input[type="text"]
+{
+	
+}
+
+
+#fasc-footer
+{
+	position:absolute;
+	padding:15px 0;
+	bottom:0;
+	left:0;
+	text-align:right;
+	display:block;
+	width:100%;
+}
+
+/*
+a.fasc-button
+{
+    -webkit-transition: all 0.3s ease;                  
+    -moz-transition: all 0.3s ease;                 
+    -o-transition: all 0.3s ease;   
+    -ms-transition: all 0.3s ease;          
+    transition: all 0.3s ease;
+}*/
